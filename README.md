@@ -1,4 +1,4 @@
-# ResumeBuilder Project
+# Project : ResumeBuilder
 
 Welcome to the ResumeBuilder project! This application is designed to help users create professional resumes using a dynamic and user-friendly interface. The project utilizes a stack of modern technologies, including React, TypeScript, Fluent UI, Formik, and C# for the backend.
 
