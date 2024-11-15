@@ -16,8 +16,6 @@ Welcome to the ResumeBuilder project! This application is designed to help users
 - Intuitive and responsive user interface
 - Form-based input for easy resume creation
 - Real-time preview of the resume
-- Ability to download the resume in various formats (PDF, DOCX)
-- Adaptive design for both desktop and mobile versions
 - Backend integration for storing and retrieving user-defined templates
 
 ## Technologies Used
@@ -87,8 +85,7 @@ Once the application is up and running, you can:
 
 - Navigate through the different sections to fill out your resume details.
 - Use the real-time preview feature to see how your changes reflect on the document.
-- Save your resume data for future use.
-- Download your completed resume in your desired format.
+- Save your resume data for future use
 
 ## Contributing
 
