@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D016BDA-520C-48D6-9BE5-D2F6EF70C3B4}|Resume\\Resume.csproj|c:\\users\\ct_user\\desktop\\resumebuilder\\backend\\resume\\resume\\services\\userservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D016BDA-520C-48D6-9BE5-D2F6EF70C3B4}|Resume\\Resume.csproj|solutionrelative:resume\\services\\userservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D016BDA-520C-48D6-9BE5-D2F6EF70C3B4}|Resume\\Resume.csproj|c:\\users\\ct_user\\desktop\\resumebuilder\\backend\\resume\\resume\\services\\userservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D016BDA-520C-48D6-9BE5-D2F6EF70C3B4}|Resume\\Resume.csproj|solutionrelative:resume\\services\\userservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D016BDA-520C-48D6-9BE5-D2F6EF70C3B4}|Resume\\Resume.csproj|c:\\users\\ct_user\\desktop\\resumebuilder\\backend\\resume\\resume\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D016BDA-520C-48D6-9BE5-D2F6EF70C3B4}|Resume\\Resume.csproj|solutionrelative:resume\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D016BDA-520C-48D6-9BE5-D2F6EF70C3B4}|Resume\\Resume.csproj|c:\\users\\ct_user\\desktop\\resumebuilder\\backend\\resume\\resume\\models\\user\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D016BDA-520C-48D6-9BE5-D2F6EF70C3B4}|Resume\\Resume.csproj|solutionrelative:resume\\models\\user\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D016BDA-520C-48D6-9BE5-D2F6EF70C3B4}|Resume\\Resume.csproj|c:\\users\\ct_user\\desktop\\resumebuilder\\backend\\resume\\resume\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D016BDA-520C-48D6-9BE5-D2F6EF70C3B4}|Resume\\Resume.csproj|solutionrelative:resume\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D016BDA-520C-48D6-9BE5-D2F6EF70C3B4}|Resume\\Resume.csproj|c:\\users\\ct_user\\desktop\\resumebuilder\\backend\\resume\\resume\\models\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D016BDA-520C-48D6-9BE5-D2F6EF70C3B4}|Resume\\Resume.csproj|solutionrelative:resume\\models\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D016BDA-520C-48D6-9BE5-D2F6EF70C3B4}|Resume\\Resume.csproj|c:\\users\\ct_user\\desktop\\resumebuilder\\backend\\resume\\resume\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D016BDA-520C-48D6-9BE5-D2F6EF70C3B4}|Resume\\Resume.csproj|solutionrelative:resume\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Resume\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Resume\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:42:21.248Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\Services\\UserServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "Resume\\Services\\UserServices\\IUserService.cs",
+              "ToolTip": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\Services\\UserServices\\IUserService.cs",
+              "RelativeToolTip": "Resume\\Services\\UserServices\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:03:07.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\Models\\User\\UserInfo.cs",
+              "RelativeDocumentMoniker": "Resume\\Models\\User\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\Models\\User\\UserInfo.cs",
+              "RelativeToolTip": "Resume\\Models\\User\\UserInfo.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAQwF4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:08:02.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Resume\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Resume\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:03:53.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\Services\\UserServices\\UserService.cs",
+              "RelativeDocumentMoniker": "Resume\\Services\\UserServices\\UserService.cs",
+              "ToolTip": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\Services\\UserServices\\UserService.cs*",
+              "RelativeToolTip": "Resume\\Services\\UserServices\\UserService.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:03:25.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\Program.cs",
+              "RelativeDocumentMoniker": "Resume\\Program.cs",
+              "ToolTip": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\Program.cs",
+              "RelativeToolTip": "Resume\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:19:35.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\Models\\DatabaseSettings.cs",
+              "RelativeDocumentMoniker": "Resume\\Models\\DatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\Models\\DatabaseSettings.cs",
+              "RelativeToolTip": "Resume\\Models\\DatabaseSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:56:59.388Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

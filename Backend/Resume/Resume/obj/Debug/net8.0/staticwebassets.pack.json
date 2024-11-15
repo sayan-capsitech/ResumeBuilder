@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\PROFILE.jfif",
+      "PackagePath": "staticwebassets\\uploads\\PROFILE.jfif"
+    },
+    {
+      "Id": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\SIGNATURE.png",
+      "PackagePath": "staticwebassets\\uploads\\SIGNATURE.png"
+    },
+    {
+      "Id": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\SayanRaha_PassportSizePicture.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\SayanRaha_PassportSizePicture.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\Screenshot 2024-07-31 at 3.56.04\u202FPM (1).png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-07-31 at 3.56.04\u202FPM (1).png"
+    },
+    {
+      "Id": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\image (6).png",
+      "PackagePath": "staticwebassets\\uploads\\image (6).png"
+    },
+    {
+      "Id": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\resume.png",
+      "PackagePath": "staticwebassets\\uploads\\resume.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Resume.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Resume.props",
+      "PackagePath": "build\\Resume.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Resume.props",
+      "PackagePath": "buildMultiTargeting\\Resume.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Resume.props",
+      "PackagePath": "buildTransitive\\Resume.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

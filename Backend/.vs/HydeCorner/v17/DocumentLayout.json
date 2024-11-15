@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|c:\\users\\ct_user\\desktop\\resumebuilder\\backend\\hydecorner\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|solutionrelative:hydecorner\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|c:\\users\\ct_user\\desktop\\resumebuilder\\backend\\hydecorner\\services\\loginservices\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|solutionrelative:hydecorner\\services\\loginservices\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|c:\\users\\ct_user\\desktop\\resumebuilder\\backend\\hydecorner\\services\\loginservices\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|solutionrelative:hydecorner\\services\\loginservices\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|c:\\users\\ct_user\\desktop\\resumebuilder\\backend\\hydecorner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|solutionrelative:hydecorner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|c:\\users\\ct_user\\desktop\\resumebuilder\\backend\\hydecorner\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|solutionrelative:hydecorner\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|c:\\users\\ct_user\\desktop\\resumebuilder\\backend\\hydecorner\\models\\login\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|solutionrelative:hydecorner\\models\\login\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|c:\\users\\ct_user\\desktop\\resumebuilder\\backend\\hydecorner\\controllers\\userinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|solutionrelative:hydecorner\\controllers\\userinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|c:\\users\\ct_user\\desktop\\resumebuilder\\backend\\hydecorner\\services\\userinfoservices\\userinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|solutionrelative:hydecorner\\services\\userinfoservices\\userinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|c:\\users\\ct_user\\desktop\\resumebuilder\\backend\\hydecorner\\models\\userinfo\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|solutionrelative:hydecorner\\models\\userinfo\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|c:\\users\\ct_user\\desktop\\resumebuilder\\backend\\hydecorner\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|solutionrelative:hydecorner\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|c:\\users\\ct_user\\desktop\\resumebuilder\\backend\\hydecorner\\services\\attendeeservices\\attendeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|solutionrelative:hydecorner\\services\\attendeeservices\\attendeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|c:\\users\\ct_user\\desktop\\resumebuilder\\backend\\hydecorner\\services\\categoryservices\\admincategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|solutionrelative:hydecorner\\services\\categoryservices\\admincategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|c:\\users\\ct_user\\desktop\\resumebuilder\\backend\\hydecorner\\services\\userinfoservices\\iuserinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B5359-2D22-4B75-BF4A-E25310E3F02C}|HydeCorner\\HydeCorner.csproj|solutionrelative:hydecorner\\services\\userinfoservices\\iuserinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "HydeCorner\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "HydeCorner\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:46:51.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\Services\\LoginServices\\ILoginService.cs",
+              "RelativeDocumentMoniker": "HydeCorner\\Services\\LoginServices\\ILoginService.cs",
+              "ToolTip": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\Services\\LoginServices\\ILoginService.cs",
+              "RelativeToolTip": "HydeCorner\\Services\\LoginServices\\ILoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:44:46.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\Services\\LoginServices\\LoginService.cs",
+              "RelativeDocumentMoniker": "HydeCorner\\Services\\LoginServices\\LoginService.cs",
+              "ToolTip": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\Services\\LoginServices\\LoginService.cs",
+              "RelativeToolTip": "HydeCorner\\Services\\LoginServices\\LoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:44:29.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "HydeCorner\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "HydeCorner\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:40:30.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\Models\\Login\\LoginModel.cs",
+              "RelativeDocumentMoniker": "HydeCorner\\Models\\Login\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\Models\\Login\\LoginModel.cs",
+              "RelativeToolTip": "HydeCorner\\Models\\Login\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:48:26.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "HydeCorner\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "HydeCorner\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:55:00.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "attendeeServices.cs",
+              "DocumentMoniker": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\Services\\AttendeeServices\\attendeeServices.cs",
+              "RelativeDocumentMoniker": "HydeCorner\\Services\\AttendeeServices\\attendeeServices.cs",
+              "ToolTip": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\Services\\AttendeeServices\\attendeeServices.cs",
+              "RelativeToolTip": "HydeCorner\\Services\\AttendeeServices\\attendeeServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:51:36.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "adminCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\Services\\CategoryServices\\adminCategoryService.cs",
+              "RelativeDocumentMoniker": "HydeCorner\\Services\\CategoryServices\\adminCategoryService.cs",
+              "ToolTip": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\Services\\CategoryServices\\adminCategoryService.cs",
+              "RelativeToolTip": "HydeCorner\\Services\\CategoryServices\\adminCategoryService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:05:58.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\appsettings.json",
+              "RelativeDocumentMoniker": "HydeCorner\\appsettings.json",
+              "ToolTip": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\appsettings.json",
+              "RelativeToolTip": "HydeCorner\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T06:32:15.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\Models\\UserInfo\\UserInfo.cs",
+              "RelativeDocumentMoniker": "HydeCorner\\Models\\UserInfo\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\Models\\UserInfo\\UserInfo.cs",
+              "RelativeToolTip": "HydeCorner\\Models\\UserInfo\\UserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:25:18.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IuserInfoService.cs",
+              "DocumentMoniker": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\Services\\UserInfoServices\\IuserInfoService.cs",
+              "RelativeDocumentMoniker": "HydeCorner\\Services\\UserInfoServices\\IuserInfoService.cs",
+              "ToolTip": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\Services\\UserInfoServices\\IuserInfoService.cs",
+              "RelativeToolTip": "HydeCorner\\Services\\UserInfoServices\\IuserInfoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:05:27.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\Controllers\\UserInfoController.cs",
+              "RelativeDocumentMoniker": "HydeCorner\\Controllers\\UserInfoController.cs",
+              "ToolTip": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\Controllers\\UserInfoController.cs",
+              "RelativeToolTip": "HydeCorner\\Controllers\\UserInfoController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:26:45.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "userInfoService.cs",
+              "DocumentMoniker": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\Services\\UserInfoServices\\userInfoService.cs",
+              "RelativeDocumentMoniker": "HydeCorner\\Services\\UserInfoServices\\userInfoService.cs",
+              "ToolTip": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\HydeCorner\\Services\\UserInfoServices\\userInfoService.cs",
+              "RelativeToolTip": "HydeCorner\\Services\\UserInfoServices\\userInfoService.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwHcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:04:46.554Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
