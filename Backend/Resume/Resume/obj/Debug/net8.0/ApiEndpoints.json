@@ -1,8 +1,8 @@
 [
   {
     "ContainingType": "Resume.Controllers.LoginController",
-    "Method": "Authenticate",
-    "RelativePath": "api/Login/authenticate",
+    "Method": "Add",
+    "RelativePath": "api/Login/add",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -24,6 +24,32 @@
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Resume.Controllers.LoginController",
+    "Method": "Login",
+    "RelativePath": "api/Login/validate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "Resume.Models.Login.Login",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Resume.Models.Login.Login",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "Resume.Controllers.UserController",
@@ -174,21 +200,37 @@
   },
   {
     "ContainingType": "Resume.Controllers.UserController",
-    "Method": "CreateProfile",
-    "RelativePath": "api/User/add",
-    "HttpMethod": "POST",
+    "Method": "SoftDeleteProfile",
+    "RelativePath": "api/User/delete/{id}",
+    "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "profile",
-        "Type": "Resume.Models.User.Profile",
+        "Name": "id",
+        "Type": "System.String",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Resume.Controllers.UserController",
+    "Method": "SearchProfiles",
+    "RelativePath": "api/User/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "Resume.Models.User.Profile",
+        "Type": "System.Collections.Generic.List\u00601[[Resume.Models.User.Profile, Resume, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -200,9 +242,9 @@
   },
   {
     "ContainingType": "Resume.Controllers.UserController",
-    "Method": "DeleteProfile",
-    "RelativePath": "api/User/delete/{id}",
-    "HttpMethod": "POST",
+    "Method": "UndoDeleteProfile",
+    "RelativePath": "api/User/undo/{id}",
+    "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
@@ -228,21 +270,96 @@
         "IsRequired": true
       },
       {
-        "Name": "profile",
-        "Type": "Resume.Models.User.Profile",
-        "IsRequired": true
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Address.House",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Address.Street",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Address.Landmark",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Address.District",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Address.City",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Address.Pincode",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Address.State",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Phone",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Designation",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "About",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Education",
+        "Type": "System.Collections.Generic.List\u00601[[Resume.Models.User.Education, Resume, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Experience",
+        "Type": "System.Collections.Generic.List\u00601[[Resume.Models.User.Experience, Resume, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Image",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "Signature",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "IsDeleted",
+        "Type": "System.Boolean",
+        "IsRequired": false
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "Resume.Models.User.Profile",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   }
 ]

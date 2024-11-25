@@ -24,5 +24,35 @@ namespace Resume.Services.LoginServices
         }
         public async Task AuthenticateUser(Login login) =>
             await _loginCollection.InsertOneAsync(login);
+
+
+
+        //public async Task<Login?> ValidateUser(Login login)
+        //{
+        //    return await _loginCollection.Find(x =>
+        //    x.Username == login.Username &&
+        //    x.Password == login.Password).
+        //    FirstOrDefaultAsync();
+        //}
+
+        //public async Task<Login?> ValidateUser(string Username, string Password)
+        //{
+        //    return await _loginCollection.Find(x =>
+        //    x.Username == Username &&
+        //    x.Password == Password).
+        //    FirstOrDefaultAsync();
+        //}
+
+
+        public async Task<Login> ValidateUser(string username, string password)
+        {
+            var user = await _loginCollection.Find(t => t.Username == username).FirstOrDefaultAsync();
+            if (user != null && password == user.Password)
+            {
+                return user;
+            }
+            return null;
+        }
     }
 }
+

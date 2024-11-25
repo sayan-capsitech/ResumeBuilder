@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.Options;
+using System.Linq;
 using MongoDB.Driver;
 using Resume.Models;
 using Resume.Models.Login;
@@ -29,16 +30,41 @@ public class UserService : IUserService
         _profiles = database.GetCollection<Profile>(dbSettings.Value.UserInfoCollectionName);
         _httpContextAccessor = httpContextAccessor;  // Initialize the accessor
     }
+
+    // Get 
     public async Task<List<Profile>> GetAllProfilesAsync()
     {
         return await _profiles.Find(profile => true).ToListAsync();
     }
 
+    // Searching
+    public async Task<List<Profile>> SearchProfilesByNameAsync(string name)
+    {
+        var filter = Builders<Profile>.Filter.Regex(p => p.Name, new MongoDB.Bson.BsonRegularExpression(name, "i"));
+        return await _profiles.Find(filter).ToListAsync();
+    }
+
+    // SoftDelete
+    public async Task SoftDeleteProfileAsync(string id)
+    {
+        var update = Builders<Profile>.Update.Set(p => p.IsDeleted, true);
+        await _profiles.UpdateOneAsync(p => p.Id == id, update);
+    }
+
+    //Undo
+    public async Task UndoDeleteProfileAsync(string id)
+    {
+        var update = Builders<Profile>.Update.Set(p => p.IsDeleted, false);
+        await _profiles.UpdateOneAsync(p => p.Id == id, update);
+    }
+
+    //Get By Id
     public async Task<Profile> GetProfileByIdAsync(string id)
     {
         return await _profiles.Find(profile => profile.Id == id).FirstOrDefaultAsync();
     }
 
+    //Add or Post
     public async Task AddProfileAsync(ProfileRequest profileRequest)
     {
         // Map ProfileRequest to Profile model
@@ -69,6 +95,42 @@ public class UserService : IUserService
         await _profiles.InsertOneAsync(profile);
     }
 
+    public async Task UpdateProfileAsync(string id, ProfileRequest profileRequest)
+    {
+        var updateDefinition = Builders<Profile>.Update
+            .Set(p => p.Name, profileRequest.Name)
+            .Set(p => p.Address, profileRequest.Address)
+            .Set(p => p.Phone, profileRequest.Phone)
+            .Set(p => p.Email, profileRequest.Email)
+            .Set(p => p.Designation, profileRequest.Designation)
+            .Set(p => p.Description, profileRequest.Description)
+            .Set(p => p.About, profileRequest.About)
+            .Set(p => p.Education, profileRequest.Education)
+            .Set(p => p.Experience, profileRequest.Experience);
+
+        if (profileRequest.Image != null)
+        {
+            var imagePath = await SaveFileAsync(profileRequest.Image);
+            updateDefinition = updateDefinition.Set(p => p.Image, imagePath);
+        }
+
+        if (profileRequest.Signature != null)
+        {
+            var signaturePath = await SaveFileAsync(profileRequest.Signature);
+            updateDefinition = updateDefinition.Set(p => p.Signature, signaturePath);
+        }
+
+        var result = await _profiles.UpdateOneAsync(
+            Builders<Profile>.Filter.Eq(p => p.Id, id),
+            updateDefinition
+        );
+
+        if (result.MatchedCount == 0)
+        {
+            throw new Exception("Profile not found");
+        }
+    }
+
     // Helper method to save uploaded file and return the file path
     private async Task<string> SaveFileAsync(IFormFile file)
     {
@@ -87,24 +149,6 @@ public class UserService : IUserService
         var baseUrl = $"{_httpContextAccessor?.HttpContext?.Request.Scheme}://{_httpContextAccessor.HttpContext.Request.Host}/uploads/";  // Use IHttpContextAccessor to get the current request
 
         return $"{baseUrl}{file.FileName}";
-    }
-
-
-public async Task<Profile> CreateProfileAsync(Profile profile)
-    {
-        await _profiles.InsertOneAsync(profile);
-        return profile;
-    }
-    public async Task<Profile> UpdateProfileAsync(string id, Profile profile)
-    {
-        profile.Id = id; // Set the existing profile's Id to ensure it matches the ID to be updated
-        var result = await _profiles.ReplaceOneAsync(p => p.Id == id, profile);
-        return result.MatchedCount > 0 ? profile : null;
-    }
-    public async Task<bool> DeleteProfileAsync(string id)
-    {
-        var result = await _profiles.DeleteOneAsync(p => p.Id == id);
-        return result.DeletedCount > 0;
     }
 
 }

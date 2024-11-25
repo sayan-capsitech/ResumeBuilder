@@ -41,3 +41,16 @@ C:\Users\CT_USER\Desktop\ResumeBuilder\Backend\Resume\Resume\bin\Debug\net8.0\Mi
 C:\Users\CT_USER\Desktop\ResumeBuilder\Backend\Resume\Resume\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\CT_USER\Desktop\ResumeBuilder\Backend\Resume\Resume\bin\Debug\net8.0\Vit.Core.dll
 C:\Users\CT_USER\Desktop\ResumeBuilder\Backend\Resume\Resume\bin\Debug\net8.0\Vit.Net.Http.FormFile.dll
+C:\Users\CT_USER\Desktop\ResumeBuilder\Backend\Resume\Resume\bin\Debug\net8.0\Resume.staticwebassets.endpoints.json
+C:\Users\CT_USER\Desktop\ResumeBuilder\Backend\Resume\Resume\obj\Debug\net8.0\Resume.sourcelink.json
+C:\Users\CT_USER\Desktop\ResumeBuilder\Backend\Resume\Resume\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\CT_USER\Desktop\ResumeBuilder\Backend\Resume\Resume\obj\Debug\net8.0\staticwebassets\msbuild.Resume.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\CT_USER\Desktop\ResumeBuilder\Backend\Resume\Resume\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\CT_USER\Desktop\ResumeBuilder\Backend\Resume\Resume\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\CT_USER\Desktop\ResumeBuilder\Backend\Resume\Resume\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CT_USER\Desktop\ResumeBuilder\Backend\Resume\Resume\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CT_USER\Desktop\ResumeBuilder\Backend\Resume\Resume\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CT_USER\Desktop\ResumeBuilder\Backend\Resume\Resume\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CT_USER\Desktop\ResumeBuilder\Backend\Resume\Resume\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CT_USER\Desktop\ResumeBuilder\Backend\Resume\Resume\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CT_USER\Desktop\ResumeBuilder\Backend\Resume\Resume\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Resume.Models.User;
 using Resume.Services.UserServices;
 
 namespace Resume.Controllers
 {
+    [Authorize(AuthenticationSchemes = "Bearer")]
     [ApiController]
     [Route("api/[controller]")]
     public class UserController : ControllerBase
@@ -38,28 +40,36 @@ namespace Resume.Controllers
 
         }
 
-
-        [HttpPost("add")]
-        public async Task<ActionResult<Profile>> CreateProfile(Profile profile)
-        {
-            var newProfile = await _profileService.CreateProfileAsync(profile);
-            return CreatedAtAction(nameof(GetProfileById), new { id = newProfile.Id }, newProfile);
-        }
-       
         [HttpPost("update/{id}")]
-        public async Task<ActionResult<Profile>> UpdateProfile(string id, Profile profile)
+        public async Task<IActionResult> UpdateProfile(string id, [FromForm] ProfileRequest request)
         {
-            var updatedProfile = await _profileService.UpdateProfileAsync(id, profile);
-            if (updatedProfile == null) return NotFound();
-            return Ok(updatedProfile);
+            await _profileService.UpdateProfileAsync(id, request);
+            return Ok(new { message = "Profile updated successfully." });
         }
-     
-        [HttpPost("delete/{id}")]
-        public async Task<IActionResult> DeleteProfile(string id)
+
+
+
+        [HttpGet("search")]
+        public async Task<ActionResult<List<Profile>>> SearchProfiles([FromQuery] string name)
         {
-            var result = await _profileService.DeleteProfileAsync(id);
-            if (!result) return NotFound();
-            return NoContent();
+            var profiles = await _profileService.SearchProfilesByNameAsync(name);
+            return Ok(profiles);
         }
+
+
+        [HttpPut("delete/{id}")]
+        public async Task<IActionResult> SoftDeleteProfile(string id)
+        {
+            await _profileService.SoftDeleteProfileAsync(id);
+            return Ok(new { message = "Profile marked as deleted." });
+        }
+
+        [HttpPut("undo/{id}")]
+        public async Task<IActionResult> UndoDeleteProfile(string id)
+        {
+            await _profileService.UndoDeleteProfileAsync(id);
+            return Ok(new { message = "Profile deletion undone." });
+        }
+
     }
 }

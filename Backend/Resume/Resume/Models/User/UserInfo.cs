@@ -79,7 +79,7 @@ public class Profile
     public string? Image { get; set; }
     public string? Signature { get; set; }
 
-    public bool IsDeleted { get; set; } = false;
+    public bool IsDeleted { get; set; } 
 }
 
 public class ProfileRequest
@@ -96,6 +96,5 @@ public class ProfileRequest
     public List<Experience> Experience { get; set; } = new List<Experience>();
     public IFormFile Image { get; set; }
     public IFormFile Signature { get; set; }
-
-    public bool IsDeleted { get; set; } = false;
+    public bool IsDeleted { get; set; }
 }

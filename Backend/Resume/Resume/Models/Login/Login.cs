@@ -15,9 +15,8 @@ namespace Resume.Models.Login
         [BsonElement("password")]
         public string? Password { get; set; }
 
-        [BsonElement("usertype")]
-        public string? UserType { get; set; }
-
+        //[BsonElement("usertype")]
+        //public string? UserType { get; set; }
     }
 }
 

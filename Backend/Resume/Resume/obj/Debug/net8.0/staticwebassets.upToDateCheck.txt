@@ -1,0 +1,8 @@
+wwwroot\uploads\dummyProfile.jpg
+wwwroot\uploads\image (6).png
+wwwroot\uploads\PROFILE.jfif
+wwwroot\uploads\resume.png
+wwwroot\uploads\SayanRaha_PassportSizePicture.jpeg
+wwwroot\uploads\Screenshot 2024-07-31 at 3.56.04 PM (1).png
+wwwroot\uploads\Signature.jpg
+wwwroot\uploads\SIGNATURE.png

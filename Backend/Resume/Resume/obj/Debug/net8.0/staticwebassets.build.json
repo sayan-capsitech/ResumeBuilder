@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xJWFSjy8T3Fr90RlQ8Kwtd1BMc1piQMbtT9mlob1KEU=",
+  "Hash": "kRyBrcsvZjSNY8an3beDyqPBlS5FXh6ydE3M2PlYcF4=",
   "Source": "Resume",
   "BasePath": "_content/Resume",
   "Mode": "Default",
@@ -17,20 +17,43 @@
   ],
   "Assets": [
     {
+      "Identity": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\dummyProfile.jpg",
+      "SourceId": "Resume",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\",
+      "BasePath": "_content/Resume",
+      "RelativePath": "uploads/dummyProfile#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zhrl26siq5",
+      "Integrity": "iScpruBlaEv6DafVIMg4X4gZQPNDFYxmMIMdZPdPpEw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\dummyProfile.jpg"
+    },
+    {
       "Identity": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\image (6).png",
       "SourceId": "Resume",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\",
       "BasePath": "_content/Resume",
-      "RelativePath": "uploads/image (6).png",
+      "RelativePath": "uploads/image (6)#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "zuy4bgb19m",
+      "Integrity": "e6QcRCvtk2pVITHedyxu32LShYKK//x9VnF9bsYi75Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\image (6).png"
@@ -41,15 +64,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\",
       "BasePath": "_content/Resume",
-      "RelativePath": "uploads/PROFILE.jfif",
+      "RelativePath": "uploads/PROFILE#[.{fingerprint}]?.jfif",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "ofm1wanw8z",
+      "Integrity": "1B8m+V2hp2w/qDjOKKPxLhU7rMjHMNO7E0q7IXyePT4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\PROFILE.jfif"
@@ -60,15 +85,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\",
       "BasePath": "_content/Resume",
-      "RelativePath": "uploads/resume.png",
+      "RelativePath": "uploads/resume#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "11h1usof2v",
+      "Integrity": "dRpptHF6rz0a2cg+EZOn3ghNfSNK7KsF1EdxQTnMco4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\resume.png"
@@ -79,15 +106,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\",
       "BasePath": "_content/Resume",
-      "RelativePath": "uploads/SayanRaha_PassportSizePicture.jpeg",
+      "RelativePath": "uploads/SayanRaha_PassportSizePicture#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "4qawu779ff",
+      "Integrity": "TAinGM0IHt9D9N32QI9ggarQyWdwVokmvWBnxx+msNc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\SayanRaha_PassportSizePicture.jpeg"
@@ -98,18 +127,41 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\",
       "BasePath": "_content/Resume",
-      "RelativePath": "uploads/Screenshot 2024-07-31 at 3.56.04\u202FPM (1).png",
+      "RelativePath": "uploads/Screenshot 2024-07-31 at 3.56.04\u202FPM (1)#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "kyuccj9tss",
+      "Integrity": "vK/HqyP4SAZ73pOufljrOyXzc/1X4pzuZyR5o8mbH18=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\Screenshot 2024-07-31 at 3.56.04\u202FPM (1).png"
+    },
+    {
+      "Identity": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\Signature.jpg",
+      "SourceId": "Resume",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\",
+      "BasePath": "_content/Resume",
+      "RelativePath": "uploads/Signature#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "du8blghzh8",
+      "Integrity": "hUaQtVLa6FFp+6NYWKeJDlxwDnDB2FmIpNkgvoIEFrk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Signature.jpg"
     },
     {
       "Identity": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\SIGNATURE.png",
@@ -117,18 +169,678 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\",
       "BasePath": "_content/Resume",
-      "RelativePath": "uploads/SIGNATURE.png",
+      "RelativePath": "uploads/SIGNATURE#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "gxd25pqhtv",
+      "Integrity": "/ENRBqY7taWa7M0W+XWUQkaYw0gAiMQgk4QHlZAcm54=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\SIGNATURE.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/dummyProfile.jpg",
+      "AssetFile": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\dummyProfile.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14176"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iScpruBlaEv6DafVIMg4X4gZQPNDFYxmMIMdZPdPpEw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 08:14:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iScpruBlaEv6DafVIMg4X4gZQPNDFYxmMIMdZPdPpEw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/dummyProfile.zhrl26siq5.jpg",
+      "AssetFile": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\dummyProfile.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14176"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iScpruBlaEv6DafVIMg4X4gZQPNDFYxmMIMdZPdPpEw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 08:14:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zhrl26siq5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/dummyProfile.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iScpruBlaEv6DafVIMg4X4gZQPNDFYxmMIMdZPdPpEw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image (6).png",
+      "AssetFile": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\image (6).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "276065"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e6QcRCvtk2pVITHedyxu32LShYKK//x9VnF9bsYi75Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 10:20:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e6QcRCvtk2pVITHedyxu32LShYKK//x9VnF9bsYi75Y="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image (6).zuy4bgb19m.png",
+      "AssetFile": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\image (6).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "276065"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e6QcRCvtk2pVITHedyxu32LShYKK//x9VnF9bsYi75Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 10:20:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zuy4bgb19m"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/image (6).png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e6QcRCvtk2pVITHedyxu32LShYKK//x9VnF9bsYi75Y="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/PROFILE.jfif",
+      "AssetFile": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\PROFILE.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1B8m+V2hp2w/qDjOKKPxLhU7rMjHMNO7E0q7IXyePT4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 10:20:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1B8m+V2hp2w/qDjOKKPxLhU7rMjHMNO7E0q7IXyePT4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/PROFILE.ofm1wanw8z.jfif",
+      "AssetFile": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\PROFILE.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1B8m+V2hp2w/qDjOKKPxLhU7rMjHMNO7E0q7IXyePT4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 10:20:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ofm1wanw8z"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/PROFILE.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1B8m+V2hp2w/qDjOKKPxLhU7rMjHMNO7E0q7IXyePT4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/resume.11h1usof2v.png",
+      "AssetFile": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\resume.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dRpptHF6rz0a2cg+EZOn3ghNfSNK7KsF1EdxQTnMco4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 10:20:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "11h1usof2v"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/resume.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dRpptHF6rz0a2cg+EZOn3ghNfSNK7KsF1EdxQTnMco4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/resume.png",
+      "AssetFile": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\resume.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dRpptHF6rz0a2cg+EZOn3ghNfSNK7KsF1EdxQTnMco4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 10:20:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dRpptHF6rz0a2cg+EZOn3ghNfSNK7KsF1EdxQTnMco4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/SayanRaha_PassportSizePicture.4qawu779ff.jpeg",
+      "AssetFile": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\SayanRaha_PassportSizePicture.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "166012"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TAinGM0IHt9D9N32QI9ggarQyWdwVokmvWBnxx+msNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 11:14:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4qawu779ff"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/SayanRaha_PassportSizePicture.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TAinGM0IHt9D9N32QI9ggarQyWdwVokmvWBnxx+msNc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/SayanRaha_PassportSizePicture.jpeg",
+      "AssetFile": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\SayanRaha_PassportSizePicture.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "166012"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TAinGM0IHt9D9N32QI9ggarQyWdwVokmvWBnxx+msNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 11:14:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TAinGM0IHt9D9N32QI9ggarQyWdwVokmvWBnxx+msNc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Screenshot 2024-07-31 at 3.56.04\u202FPM (1).kyuccj9tss.png",
+      "AssetFile": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\Screenshot 2024-07-31 at 3.56.04\u202FPM (1).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vK/HqyP4SAZ73pOufljrOyXzc/1X4pzuZyR5o8mbH18=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 10:20:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kyuccj9tss"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Screenshot 2024-07-31 at 3.56.04\u202FPM (1).png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vK/HqyP4SAZ73pOufljrOyXzc/1X4pzuZyR5o8mbH18="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Screenshot 2024-07-31 at 3.56.04\u202FPM (1).png",
+      "AssetFile": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\Screenshot 2024-07-31 at 3.56.04\u202FPM (1).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vK/HqyP4SAZ73pOufljrOyXzc/1X4pzuZyR5o8mbH18=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 10:20:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vK/HqyP4SAZ73pOufljrOyXzc/1X4pzuZyR5o8mbH18="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Signature.du8blghzh8.jpg",
+      "AssetFile": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\Signature.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5659"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hUaQtVLa6FFp+6NYWKeJDlxwDnDB2FmIpNkgvoIEFrk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 08:14:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "du8blghzh8"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Signature.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hUaQtVLa6FFp+6NYWKeJDlxwDnDB2FmIpNkgvoIEFrk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/SIGNATURE.gxd25pqhtv.png",
+      "AssetFile": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\SIGNATURE.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1383"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/ENRBqY7taWa7M0W+XWUQkaYw0gAiMQgk4QHlZAcm54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 10:20:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gxd25pqhtv"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/SIGNATURE.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/ENRBqY7taWa7M0W+XWUQkaYw0gAiMQgk4QHlZAcm54="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Signature.jpg",
+      "AssetFile": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\Signature.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5659"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hUaQtVLa6FFp+6NYWKeJDlxwDnDB2FmIpNkgvoIEFrk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 08:14:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hUaQtVLa6FFp+6NYWKeJDlxwDnDB2FmIpNkgvoIEFrk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/SIGNATURE.png",
+      "AssetFile": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\SIGNATURE.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1383"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/ENRBqY7taWa7M0W+XWUQkaYw0gAiMQgk4QHlZAcm54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 10:20:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/ENRBqY7taWa7M0W+XWUQkaYw0gAiMQgk4QHlZAcm54="
+        }
+      ]
     }
   ]
 }

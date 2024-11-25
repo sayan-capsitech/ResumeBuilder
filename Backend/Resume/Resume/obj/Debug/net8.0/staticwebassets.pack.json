@@ -17,12 +17,24 @@
       "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-07-31 at 3.56.04\u202FPM (1).png"
     },
     {
+      "Id": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\Signature.jpg",
+      "PackagePath": "staticwebassets\\uploads\\Signature.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\dummyProfile.jpg",
+      "PackagePath": "staticwebassets\\uploads\\dummyProfile.jpg"
+    },
+    {
       "Id": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\image (6).png",
       "PackagePath": "staticwebassets\\uploads\\image (6).png"
     },
     {
       "Id": "C:\\Users\\CT_USER\\Desktop\\ResumeBuilder\\Backend\\Resume\\Resume\\wwwroot\\uploads\\resume.png",
       "PackagePath": "staticwebassets\\uploads\\resume.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Resume.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Resume.Microsoft.AspNetCore.StaticWebAssets.props",
